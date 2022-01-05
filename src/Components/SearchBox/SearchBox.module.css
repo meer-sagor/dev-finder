@@ -1,0 +1,23 @@
+.form-control {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 2.5rem;
+}
+.form-group {
+  display: flex;
+  align-items: center;
+}
+
+.form-group input {
+  background: none;
+  display: block;
+  width: 70rem;
+  color: white;
+  border: none;
+  outline: none;
+  font-size: 2rem;
+}
+.search-icon{
+  margin-right: 1.5em;
+}

@@ -1,8 +1,10 @@
+import DevFinder from "./Components/devFinder/DevFinder";
+
 const App = () =>{
   return (
-    <div className="App">
-      <h1> Hello dev finder</h1>
-    </div>
+    <>
+      <DevFinder/>
+    </>
   );
 }
 

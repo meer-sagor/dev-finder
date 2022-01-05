@@ -1,0 +1,8 @@
+.container {
+  width: 90rem;
+  margin: 0 auto;
+  margin-top: 2em;
+}
+.container h1{
+  margin-bottom: .6em;
+}

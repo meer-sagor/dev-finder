@@ -1,0 +1,20 @@
+.user__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.user__name {
+  font-size: 3.6rem;
+}
+.user__joined-info,
+.user__id,
+.user__bio,
+.user__social-link {
+  font-size: 1.8rem;
+  color: #6a79a1;
+}
+.user__id {
+  color: #59d3fa;
+  margin: 0.5em 0;
+}

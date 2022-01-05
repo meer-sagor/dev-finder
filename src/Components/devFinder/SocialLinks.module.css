@@ -1,0 +1,17 @@
+.user__social-links {
+  margin-top: 2em;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #6a79a1;
+}
+.user__social-link {
+  margin-bottom: 1em;
+}
+.icon {
+  margin-right: 1em;
+  color: white;
+  font-size: 2rem;
+}

@@ -1,0 +1,14 @@
+.user__others-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #141c2f;
+  border-radius: 1em;
+  color: #6a79a1;
+  padding: 1em 1.5rem;
+  margin-top: 3em;
+}
+.user__others-info p {
+  margin-top: 1em;
+  color: white;
+}
